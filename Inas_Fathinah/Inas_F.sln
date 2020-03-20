@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inas_F", "Inas_F.csproj", "{5E2FEF78-CA41-4210-BA94-0C6DD1BD5682}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E2FEF78-CA41-4210-BA94-0C6DD1BD5682}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{5E2FEF78-CA41-4210-BA94-0C6DD1BD5682}.Debug|anycpu.Build.0 = Debug|anycpu
+		{5E2FEF78-CA41-4210-BA94-0C6DD1BD5682}.Release|anycpu.ActiveCfg = Release|anycpu
+		{5E2FEF78-CA41-4210-BA94-0C6DD1BD5682}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal

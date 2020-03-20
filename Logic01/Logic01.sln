@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logic01", "Logic01.csproj", "{9CFABE4D-CD2E-40E7-BEFE-5E1059282875}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CFABE4D-CD2E-40E7-BEFE-5E1059282875}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{9CFABE4D-CD2E-40E7-BEFE-5E1059282875}.Debug|anycpu.Build.0 = Debug|anycpu
+		{9CFABE4D-CD2E-40E7-BEFE-5E1059282875}.Release|anycpu.ActiveCfg = Release|anycpu
+		{9CFABE4D-CD2E-40E7-BEFE-5E1059282875}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal
